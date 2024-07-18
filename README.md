@@ -6,3 +6,4 @@
 - NÃO mude as pastas ou os nomes dos arquivos (Modelo.docx, Certificado Automático. Xlms...), caso contrário o pro grama não irá rodar.
 - Atenção nos caminhos de onde está as pastas e os modelos para que o programa rode normalmente.
 - Mude as informações necessárias diretamente no código VBA, que você pode acessar pressionando a célula ALT + F11 
+- No modelo de certificado em .docx, você deve alterar colocando o modelo do seu grupo. Preste bastante atenção, pois os nomes escritos a partir do símbolo # não poderão ser alterados, caso contrário o certificado será gerado com erros.
